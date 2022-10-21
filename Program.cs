@@ -1,4 +1,8 @@
-﻿bool runAgain = true;
+﻿//Peer Reviewed: Angelica Ayala 10/21/22
+//Guessit workes efficiently
+//Clean coding and easy to read
+
+bool runAgain = true;
     while(runAgain == true)
     {
         string difficulty = "";
