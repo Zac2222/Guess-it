@@ -1,0 +1,15 @@
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\GuessIt\Guess-it\bin\Debug\net6.0\Guess-it.exe
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\GuessIt\Guess-it\bin\Debug\net6.0\Guess-it.deps.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\GuessIt\Guess-it\bin\Debug\net6.0\Guess-it.runtimeconfig.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\GuessIt\Guess-it\bin\Debug\net6.0\Guess-it.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\GuessIt\Guess-it\bin\Debug\net6.0\Guess-it.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\GuessIt\Guess-it\obj\Debug\net6.0\Guess-it.csproj.AssemblyReference.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\GuessIt\Guess-it\obj\Debug\net6.0\Guess-it.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\GuessIt\Guess-it\obj\Debug\net6.0\Guess-it.AssemblyInfoInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\GuessIt\Guess-it\obj\Debug\net6.0\Guess-it.AssemblyInfo.cs
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\GuessIt\Guess-it\obj\Debug\net6.0\Guess-it.csproj.CoreCompileInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\GuessIt\Guess-it\obj\Debug\net6.0\Guess-it.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\GuessIt\Guess-it\obj\Debug\net6.0\refint\Guess-it.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\GuessIt\Guess-it\obj\Debug\net6.0\Guess-it.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\GuessIt\Guess-it\obj\Debug\net6.0\Guess-it.genruntimeconfig.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\GuessIt\Guess-it\obj\Debug\net6.0\ref\Guess-it.dll
